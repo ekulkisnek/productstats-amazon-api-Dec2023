@@ -1,5 +1,6 @@
 
 # Keepa API Product Analyzer
+![image](image.png)
 
 A web-based tool that processes product data through the Keepa API to analyze Amazon product rankings, prices, and sales metrics. This application helps sellers make data-driven decisions by providing insights into product performance metrics.
 
